@@ -1,0 +1,14 @@
+D:\poo\useful\hypotenuse\bin\Debug\hypotenuse.exe.config
+D:\poo\useful\hypotenuse\bin\Debug\hypotenuse.exe
+D:\poo\useful\hypotenuse\bin\Debug\hypotenuse.pdb
+D:\poo\useful\hypotenuse\obj\Debug\hypotenuse.csproj.AssemblyReference.cache
+D:\poo\useful\hypotenuse\obj\Debug\hypotenuse.csproj.CoreCompileInputs.cache
+D:\poo\useful\hypotenuse\obj\Debug\hypotenuse.exe
+D:\poo\useful\hypotenuse\obj\Debug\hypotenuse.pdb
+E:\poo\useful\hypotenuse\bin\Debug\hypotenuse.exe.config
+E:\poo\useful\hypotenuse\bin\Debug\hypotenuse.exe
+E:\poo\useful\hypotenuse\bin\Debug\hypotenuse.pdb
+E:\poo\useful\hypotenuse\obj\Debug\hypotenuse.csproj.AssemblyReference.cache
+E:\poo\useful\hypotenuse\obj\Debug\hypotenuse.csproj.CoreCompileInputs.cache
+E:\poo\useful\hypotenuse\obj\Debug\hypotenuse.exe
+E:\poo\useful\hypotenuse\obj\Debug\hypotenuse.pdb
